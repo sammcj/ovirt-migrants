@@ -1,7 +1,7 @@
 # ovirt-migrants
 A repo of information for people moving to oVirt
 
-- [Glossary](glossary.md) of oVirt / RHEV terminology
+- [Glossary](glossary.md) of oVirt / RHV terminology
 - [Troubleshooting](troubleshooting.md)
 - [Logging](logging.md)
 - [Backups](backups.md)
